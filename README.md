@@ -1,4 +1,4 @@
-#IpMacScan
+# IpMacScan
 
 Verilen IP adresi aralığındaki aktif olan tüm IP ve MAC adreslerini listeler.
 
